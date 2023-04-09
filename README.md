@@ -1,3 +1,7 @@
+In this Project I use NextJS to consume one API from strapi
+
+Here i use useState, useEffect, css modules, dynamic url, static url,getServerSideProps,  getStaticProps, getStaticPaths. the component Img, links and other things that come from Next
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
